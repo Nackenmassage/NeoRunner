@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 62e2d45be7ae5dd4586111a59f8bc053
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Gelaender
+    100002: Gelaender001
+    100004: Gelaender002
+    100006: Gelaender003
+    100008: Gelaender004
+    100010: Gelaender005
+    100012: Gelaender006
+    100014: Gelaender007
+    100016: Gelaender008
+    100018: Gelaender009
+    100020: //RootNode
+    400000: Gelaender
+    400002: Gelaender001
+    400004: Gelaender002
+    400006: Gelaender003
+    400008: Gelaender004
+    400010: Gelaender005
+    400012: Gelaender006
+    400014: Gelaender007
+    400016: Gelaender008
+    400018: Gelaender009
+    400020: //RootNode
+    2100000: No Name
+    2300000: Gelaender
+    2300002: Gelaender001
+    2300004: Gelaender002
+    2300006: Gelaender003
+    2300008: Gelaender004
+    2300010: Gelaender005
+    2300012: Gelaender006
+    2300014: Gelaender007
+    2300016: Gelaender008
+    2300018: Gelaender009
+    2300020: //RootNode
+    3300000: Gelaender
+    3300002: Gelaender001
+    3300004: Gelaender002
+    3300006: Gelaender003
+    3300008: Gelaender004
+    3300010: Gelaender005
+    3300012: Gelaender006
+    3300014: Gelaender007
+    3300016: Gelaender008
+    3300018: Gelaender009
+    3300020: //RootNode
+    4300000: Platform
+    4300002: Gelaender
+    4300004: Gelaender001
+    4300006: Gelaender002
+    4300008: Gelaender003
+    4300010: Gelaender004
+    4300012: Gelaender005
+    4300014: Gelaender006
+    4300016: Gelaender007
+    4300018: Gelaender008
+    4300020: Gelaender009
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
